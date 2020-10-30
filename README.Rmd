@@ -22,6 +22,11 @@ knitr::opts_chunk$set(
 
 <img align="left" alt="GitHub" width="26px" src = "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+### Contributions
+
+I love contributing to R open source packages. 
+<img align = "left" alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />
+
 <!-- badges: start -->
 
 <!-- badges: end -->
