@@ -16,7 +16,8 @@
 ### Contributions
 
 I love contributing to R open source packages.
-<img align = "left" alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />
+
+\[<img align = "left" alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />\]\[<https://usethis.r-lib.org>\]
 
 <!-- badges: start -->
 
