@@ -19,10 +19,17 @@
 
 ### Contributions
 
-So far I have contributed to the following R packages: \* {usethis}
-<a href = "https://usethis.r-lib.org">
-<img align = "left" alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />
-</a> <!-- badges: start -->
+So far I have contributed to the following R packages:
+
+<p>
+
+  - {usethis} <a href = "https://usethis.r-lib.org">
+    <img align = "left" alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />
+    </a>
+
+</p>
+
+<!-- badges: start -->
 
 <!-- badges: end -->
 
