@@ -37,3 +37,7 @@ So far I have contributed to the following R packages:
 <img alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />
 </a>
 </p>
+
+### GitHub Stats
+[![Dragos's github stats](https://github-readme-stats.vercel.app/api?username=dragosmg)](https://github.com/anuraghazra/github-readme-stats)
+
