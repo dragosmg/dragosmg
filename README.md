@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
+---
+
 ### Tools and Languages
 <a href = "https://www.r-project.org">
 <img align="left" alt="R" width="26px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
@@ -28,6 +30,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+---
+
 ### Contributions
 
 So far I have contributed to the following R packages: 
@@ -37,6 +41,8 @@ So far I have contributed to the following R packages:
 <img alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />
 </a>
 </p>
+
+---
 
 ### GitHub Stats
 ![Dragos's github stats](https://github-readme-stats.vercel.app/api?username=dragosmg&theme=solarized-dark&show_icons=true)
