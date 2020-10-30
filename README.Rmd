@@ -26,10 +26,11 @@ knitr::opts_chunk$set(
 
 <br />
 <br />
+
 ### Contributions
 
-I love contributing to R open source packages. 
-
+So far I have contributed to the following R packages: 
+* {usethis}
 <a href = "https://usethis.r-lib.org">
 <img align = "left" alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />
 </a>

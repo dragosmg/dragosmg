@@ -15,10 +15,11 @@
 
 <img align="left" alt="GitHub" width="26px" src = "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 
-<br /> <br /> \#\#\# Contributions
+<br /> <br />
 
-I love contributing to R open source packages.
+### Contributions
 
+So far I have contributed to the following R packages: \* {usethis}
 <a href = "https://usethis.r-lib.org">
 <img align = "left" alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />
 </a> <!-- badges: start -->
