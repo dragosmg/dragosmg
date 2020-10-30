@@ -39,5 +39,5 @@ So far I have contributed to the following R packages:
 </p>
 
 ### GitHub Stats
-[![Dragos's github stats](https://github-readme-stats.vercel.app/api?username=dragosmg)](https://github.com/anuraghazra/github-readme-stats)
+![Dragos's github stats](https://github-readme-stats.vercel.app/api?username=dragosmg&theme=solarized-dark&show_icons=true)
 
