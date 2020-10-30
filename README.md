@@ -19,9 +19,9 @@
 
 I love contributing to R open source packages.
 
+<a href = "https://usethis.r-lib.org">
 <img align = "left" alt = "usethis" width = "26px" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/usethis.png" />
-
-<!-- badges: start -->
+</a> <!-- badges: start -->
 
 <!-- badges: end -->
 
