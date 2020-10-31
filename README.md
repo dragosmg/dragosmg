@@ -47,5 +47,5 @@ So far I have contributed to the following R packages:
 ---
 
 ### GitHub Stats
-![Dragos's github stats](https://github-readme-stats.vercel.app/api?username=dragosmg&theme=solarized-dark&show_icons=true)
+![Dragos's github stats](https://github-readme-stats.vercel.app/api?username=dragosmg&theme=solarized-dark&show_icons=true&count_private=true)
 
