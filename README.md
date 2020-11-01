@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+### Hi there, I'm Drago&#x0219; 👋
 
 ---
 
