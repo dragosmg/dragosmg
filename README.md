@@ -1,7 +1,5 @@
-### WIP - Hi there 👋
-
-(more soon ...)
-
+<p align="center"><img src="https://fontmeme.com/permalink/220827/785f1212d65c1363fabcdda47fb0bc33.png" width="400" border="0"></p>
+<p align="center"><a href="https://dragos.mg">Website</a> | <a href="https://www.linkedin.com/in/dragosmoldovan/">LinkedIn</a> | <a href="https://twitter.com/dragosmg">Twitter</a></p>
 <!--
 **dragosmg/dragosmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
+
